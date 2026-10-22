@@ -1,0 +1,1 @@
+import Link from "next/link";export default function NotFound(){return <main style={{minHeight:'100vh',display:'grid',placeContent:'center',textAlign:'center',gap:'1rem'}}><h1>404 — Page not found</h1><Link href="/">Return home →</Link></main>}

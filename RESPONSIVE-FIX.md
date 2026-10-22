@@ -1,0 +1,1 @@
+Ticker fixed: 4 columns wide screens, 2x2 grid tablet/mobile, 1 column extra narrow. Removed nowrap and repeated text; all labels fully visible without scrolling. No changes to photos, resume or project details.
